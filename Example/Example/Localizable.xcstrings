@@ -1,0 +1,21 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "Example" : {
+
+    },
+    "Loading..." : {
+
+    },
+    "Oops! Something went wrong..." : {
+
+    },
+    "Pokémon Not Found" : {
+
+    },
+    "Search" : {
+
+    }
+  },
+  "version" : "1.0"
+}
